@@ -1,6 +1,3 @@
-Here’s a README file with a clear description of your project, usage instructions, and an explanation of the code's purpose:  
-
----
 
 # **ADNI NIfTI Preprocessing Pipeline**
 
