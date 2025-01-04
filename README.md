@@ -83,8 +83,3 @@ All files have been processed and saved!
 ## **Contributing**
 Feel free to fork this repository and submit pull requests for improvements or additional features.  
 
----
-
-## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
